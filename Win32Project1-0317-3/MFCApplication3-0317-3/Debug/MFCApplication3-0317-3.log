@@ -1,0 +1,4 @@
+﻿  MFCApplication3-0317-3View.cpp
+c:\users\administrator\documents\visual studio 2015\projects\win32project1-0317-3\mfcapplication3-0317-3\mfcapplication3-0317-3view.cpp(144): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+  MFCApplication3-0317-3.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Win32Project1-0317-3\Debug\MFCApplication3-0317-3.exe
+  MFCApplication3-0317-3.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Win32Project1-0317-3\Debug\MFCApplication3-0317-3.pdb (Partial PDB)
