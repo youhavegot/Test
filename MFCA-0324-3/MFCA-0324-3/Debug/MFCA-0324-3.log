@@ -1,0 +1,6 @@
+﻿  MFCA-0324-3View.cpp
+c:\users\administrator\documents\visual studio 2015\projects\mfca-0324-3\mfca-0324-3\mfca-0324-3view.cpp(142): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+c:\users\administrator\documents\visual studio 2015\projects\mfca-0324-3\mfca-0324-3\mfca-0324-3view.cpp(146): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+c:\users\administrator\documents\visual studio 2015\projects\mfca-0324-3\mfca-0324-3\mfca-0324-3view.cpp(150): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+  MFCA-0324-3.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\MFCA-0324-3\Debug\MFCA-0324-3.exe
+  MFCA-0324-3.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\MFCA-0324-3\Debug\MFCA-0324-3.pdb (Partial PDB)
