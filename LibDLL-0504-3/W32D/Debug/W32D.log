@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  W32D.cpp
+c:\users\administrator\documents\visual studio 2015\projects\libdll-0504-3\w32d\w32d.cpp(40): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+    正在创建库 c:\users\administrator\documents\visual studio 2015\Projects\LibDLL-0504-3\Debug\W32D.lib 和对象 c:\users\administrator\documents\visual studio 2015\Projects\LibDLL-0504-3\Debug\W32D.exp
+  W32D.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\LibDLL-0504-3\Debug\W32D.dll
+  W32D.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\LibDLL-0504-3\Debug\W32D.pdb (Full PDB)
