@@ -1,0 +1,7 @@
+﻿  MyDlg.cpp
+c:\users\administrator\documents\visual studio 2015\projects\cdlg-0421\cdlg-0421\mydlg.cpp(66): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\cdlg-0421\cdlg-0421\mydlg.cpp(67): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\cdlg-0421\cdlg-0421\mydlg.cpp(71): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\documents\visual studio 2015\projects\cdlg-0421\cdlg-0421\mydlg.cpp(79): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  CDlg-0421.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\CDlg-0421\Debug\CDlg-0421.exe
+  CDlg-0421.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\CDlg-0421\Debug\CDlg-0421.pdb (Partial PDB)
