@@ -1,0 +1,4 @@
+﻿  MFCA-0413-1View.cpp
+c:\users\administrator\documents\visual studio 2015\projects\mfca-0413-1\mfca-0413-1\mfca-0413-1view.cpp(129): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+  MFCA-0413-1.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\MFCA-0413-1\Debug\MFCA-0413-1.exe
+  MFCA-0413-1.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\MFCA-0413-1\Debug\MFCA-0413-1.pdb (Partial PDB)
