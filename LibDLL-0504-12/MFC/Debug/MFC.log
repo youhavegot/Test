@@ -1,0 +1,4 @@
+﻿  MFCView.cpp
+c:\users\administrator\documents\visual studio 2015\projects\libdll-0504-12\lib\w32.h(13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  MFC.vcxproj -> C:\Users\Administrator\documents\visual studio 2015\Projects\LibDLL-0504-12\Debug\MFC.exe
+  MFC.vcxproj -> C:\Users\Administrator\documents\visual studio 2015\Projects\LibDLL-0504-12\Debug\MFC.pdb (Partial PDB)
