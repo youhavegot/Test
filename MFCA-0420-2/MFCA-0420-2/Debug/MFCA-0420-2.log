@@ -1,0 +1,11 @@
+﻿  MyDlg2.cpp
+  MFCA-0420-2View.cpp
+c:\users\administrator\documents\visual studio 2015\projects\mfca-0420-2\mfca-0420-2\mfca-0420-2view.cpp(140): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  MyDlg.cpp
+  MFCA-0420-2Doc.cpp
+  MainFrm.cpp
+  MFCA-0420-2.cpp
+  MFCA-0420-2.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\MFCA-0420-2\Debug\MFCA-0420-2.exe
+  MFCA-0420-2.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\MFCA-0420-2\Debug\MFCA-0420-2.pdb (Partial PDB)
